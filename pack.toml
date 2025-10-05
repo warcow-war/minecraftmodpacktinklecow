@@ -9,7 +9,7 @@ base_url = "https://raw.githubusercontent.com/warcow-war/minecraftmodpacktinklec
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "f8d2465c77d22d81da52fbcf766202eabb95306bfe527f60dc22a588d2413f4a"
+hash = "2734eac995b72a34fd48ff9dd95b443c36ac8c77b2b62846d2864e9b0e30a294"
 
 [versions]
 forge = "47.4.0"
