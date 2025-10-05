@@ -1,0 +1,13 @@
+name = "Zaynen's Craftable Slimeball Mod"
+filename = "zaynens_craftable_slimeball_mod_1.20.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "66cc6ac3fad8cb8c2e33c8b82285b3a04542d540"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4854769
+project-id = 525796

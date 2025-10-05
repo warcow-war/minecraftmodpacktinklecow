@@ -1,0 +1,13 @@
+name = "Stop Drop N Roll"
+filename = "stopdropnroll-1.0.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "7d6379fe5d85b0eaf340c84c7575459d2d78d7e3"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5389072
+project-id = 1028824
