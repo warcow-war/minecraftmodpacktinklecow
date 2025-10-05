@@ -3,6 +3,10 @@ author = "Mitemi"
 version = "1.1.0-1"
 pack-format = "packwiz:1.1.0"
 
+[metadata]
+
+base_url = "https://raw.githubusercontent.com/warcow-war/minecraftmodpacktinklecow/main/"
+
 [index]
 file = "index.toml"
 hash-format = "sha256"
