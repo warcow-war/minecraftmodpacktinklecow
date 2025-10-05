@@ -1,0 +1,13 @@
+name = "Hold My Beer: Empty Hand"
+filename = "holdmybeer-1.20.1-1.2.3.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "69535d0ca75b9887f2c71daa68703eeee9c20acb"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5487174
+project-id = 872312
