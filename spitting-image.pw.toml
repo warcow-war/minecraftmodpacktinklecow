@@ -1,0 +1,13 @@
+name = "Spitting Image"
+filename = "spittingimage-5v-1.20_1.20.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "818f8bdccf225b1d7c1e036e0ab68854617a0749"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6840417
+project-id = 1166208

@@ -1,0 +1,13 @@
+name = "Sitting+"
+filename = "sittingplus-2.0.5-1.20.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "4ae4bc07709012b14dc88e7be0fb6fd2a4ce9f77"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6427441
+project-id = 946727
