@@ -1,0 +1,13 @@
+name = "Carry On Extend"
+filename = "CarryOnExtend-1.4.2-1.20.1-Forge.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "e8fd96c65e36a781949e7fd94e6422a0104346b9"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6867716
+project-id = 1245887
